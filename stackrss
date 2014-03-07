@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Stack2RSS Custom Feed</title>
+    <link>http://api.codereview.stackexchange.com/1.1/answers?key=Gbn011-pzEi4tPK3BwbYIg</link>
+    <description>This feed contains the result of the API URL http://api.codereview.stackexchange.com/1.1/answers?key=Gbn011-pzEi4tPK3BwbYIg.</description>
+    <language>en</language>
+    <generator>PHP 5.2</generator>
+    <lastBuildDate>Fri, 07 Mar 2014 12:08:09 +0000</lastBuildDate>
+    <item>
+      <title><![CDATA[Should I refactor for DRY?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43606</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 11:58:43 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[malloc implementation]]></title>
+      <link>http://codereview.stackexchange.com/questions/43691</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 11:53:42 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Generic Wrapper for a Task-based API]]></title>
+      <link>http://codereview.stackexchange.com/questions/19007</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 11:29:36 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Get lowest integer that is not in set]]></title>
+      <link>http://codereview.stackexchange.com/questions/43689</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 11:11:47 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Fix this messy if code?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43690</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 10:53:11 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43688</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 10:10:31 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Fix this messy if code?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43687</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 09:56:11 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[how can I factor out REST-POST activity to a manager?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43686</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 09:24:07 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Is this the right way to use TcpListener in the background?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43685</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 09:23:42 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Get lowest integer that is not in set]]></title>
+      <link>http://codereview.stackexchange.com/questions/43682</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 08:48:45 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43676</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 08:22:20 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43681</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 08:13:19 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43680</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:34:14 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43678</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:32:13 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Should I refactor for DRY?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43602</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:11:05 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Quicksort implementation]]></title>
+      <link>http://codereview.stackexchange.com/questions/43677</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:05:08 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Proper capitalization for book titles?]]></title>
+      <link>http://codereview.stackexchange.com/questions/43365</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:01:19 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Return the largest palindrome from the string]]></title>
+      <link>http://codereview.stackexchange.com/questions/43675</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 07:01:18 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Get lowest integer that is not in set]]></title>
+      <link>http://codereview.stackexchange.com/questions/43674</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 06:49:19 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[RGB to HEX (and vice versa) converter]]></title>
+      <link>http://codereview.stackexchange.com/questions/43672</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 05:34:38 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Prime number generator exercise]]></title>
+      <link>http://codereview.stackexchange.com/questions/43669</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 04:44:56 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[malloc implementation]]></title>
+      <link>http://codereview.stackexchange.com/questions/43666</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 03:12:12 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Updating Grid on Webpage]]></title>
+      <link>http://codereview.stackexchange.com/questions/43665</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 01:56:00 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Recursively remove all adjacent duplicates]]></title>
+      <link>http://codereview.stackexchange.com/questions/43578</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 01:48:31 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Calculating nth power of x]]></title>
+      <link>http://codereview.stackexchange.com/questions/43664</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 01:19:28 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[RC4 in 8051 assembly optimization]]></title>
+      <link>http://codereview.stackexchange.com/questions/43662</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 00:57:51 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Optimize Cython code with np.ndarray contained]]></title>
+      <link>http://codereview.stackexchange.com/questions/43659</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Fri, 07 Mar 2014 00:27:13 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[Updating Grid on Webpage]]></title>
+      <link>http://codereview.stackexchange.com/questions/43656</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Thu, 06 Mar 2014 23:23:30 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[First Chess Project (ver 1.1)]]></title>
+      <link>http://codereview.stackexchange.com/questions/43657</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Thu, 06 Mar 2014 23:19:22 +0000</pubDate>
+    </item>    <item>
+      <title><![CDATA[RPSLS Game in C#]]></title>
+      <link>http://codereview.stackexchange.com/questions/43654</link>
+      <description><![CDATA[<i>No content.</i>]]></description>
+      <pubDate>Thu, 06 Mar 2014 21:59:58 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
